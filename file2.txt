@@ -1,2 +1,3 @@
 This is file2
 not added to git ignore
+new line added on main branch
