@@ -2,3 +2,4 @@ This is a new file.
 a new line added.
 added to git ignore
 new changes implemented but in fb1 branch
+learning git merge
