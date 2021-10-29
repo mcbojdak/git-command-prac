@@ -1,1 +1,2 @@
 This is file2
+not added to git ignore
